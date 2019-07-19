@@ -1,0 +1,11 @@
+.jumbotron {
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: yellow;
+    margin-top: 50px;
+    min-height: 335px;
+
+
+}
