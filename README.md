@@ -12,7 +12,7 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
-FriendFinder is a Seinfeld character matching app. It is a full-stack site that will take in results from user's surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. 
+FriendFinder is a Seinfeld character matching app. It is a full-stack site that will take in results from user's surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match. [app website](https://friend-finder-seinfeld-24.herokuapp.com/)
 
 ### Built With
 * HTML
@@ -36,7 +36,7 @@ No installation is required.
 
 
 ## Usage
-1. Visit  the [app website]()
+1. Visit  the [app website](https://friend-finder-seinfeld-24.herokuapp.com/)
 2. Click "Go to Survey"
 3. Fill out the answers based on your preferences
 4. Once finished filling out the survey, click submit to see your results
